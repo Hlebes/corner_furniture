@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.4627806"
-     inkscape:cx="237.56126"
-     inkscape:cy="232.09222"
+     inkscape:zoom="2.0686842"
+     inkscape:cx="198.67702"
+     inkscape:cy="375.84278"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -228,7 +228,10 @@
        d="m 149.07531,-191.00947 h 26.45833"
        id="path32" /><g
        id="g36-9"
-       transform="matrix(0.93807773,0,0,0.93807773,-5.2183015,37.095439)"><text
+       transform="matrix(0.93504658,0,0,0.93504658,-4.9877061,37.420629)"
+       inkscape:export-filename="logo2.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.1698px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0.846145px;opacity:1;fill:none;stroke:#6e3e1e;stroke-width:0.405084;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          x="114.37854"
@@ -566,7 +569,10 @@
          id="rect67-8-1"
          style="color:#000000;fill:#6e3e1e;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers stroke fill"
          d="m 220.06143,76.92042 c -0.34915,0 -0.63459,0.285951 -0.63459,0.635104 v 0.644405 h 0.36122 v -0.644405 c 0,-0.154867 0.11851,-0.273886 0.27337,-0.273886 h 1.55495 c 0.15487,0 0.27543,0.119019 0.27543,0.273886 v 0.644405 h 0.36122 v -0.644405 c 0,-0.349153 -0.28751,-0.635104 -0.63665,-0.635104 z" /></g><g
-       id="g4"><g
+       id="g4"
+       inkscape:export-filename="logo.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><g
          id="g36"
          transform="matrix(0.93807773,0,0,0.93807773,13.884849,-9.6759183)"
          style="fill:#9a705b;fill-opacity:1;stroke:#9a705b;stroke-opacity:1"><text

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="266.85535"
-   height="89.021881"
-   viewBox="0 0 70.605474 23.553707"
+   width="265.9931"
+   height="89.195496"
+   viewBox="0 0 70.377338 23.599642"
    version="1.1"
    id="svg1"
    sodipodi:docname="рисунок.svg"
@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.4627806"
-     inkscape:cx="237.56126"
-     inkscape:cy="232.09222"
+     inkscape:zoom="2.0686842"
+     inkscape:cx="198.67702"
+     inkscape:cy="375.84278"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -37,7 +37,7 @@
      showguides="true"><inkscape:grid
        id="grid1"
        units="px"
-       originx="-116.57233"
+       originx="-117.00347"
        originy="-377.82192"
        spacingx="8.8194435"
        spacingy="8.8194435"
@@ -50,23 +50,23 @@
        gridanglex="30"
        gridanglez="30"
        visible="true" /><sodipodi:guide
-       position="17.456887,169.08567"
+       position="17.342814,169.08567"
        orientation="0,-1"
        id="guide36"
        inkscape:locked="false" /><sodipodi:guide
-       position="21.478642,181.15097"
+       position="21.364569,181.15097"
        orientation="0,-1"
        id="guide37"
        inkscape:locked="false" /><sodipodi:guide
-       position="0.11407196,160.7202"
+       position="-8.4178759e-07,160.7202"
        orientation="1,0"
        id="guide70"
        inkscape:locked="false" /><sodipodi:guide
-       position="70.491405,160.81064"
+       position="70.377332,160.81064"
        orientation="1,0"
        id="guide71"
        inkscape:locked="false" /><sodipodi:guide
-       position="35.448315,149.41539"
+       position="35.334242,149.41539"
        orientation="1,0"
        id="guide72"
        inkscape:locked="false" /></sodipodi:namedview><defs
@@ -74,9 +74,12 @@
      inkscape:label="Слой 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-30.843095,-99.965383)"><g
+     transform="translate(-30.957168,-99.965383)"><g
        id="g36-9"
-       transform="matrix(0.93807773,0,0,0.93807773,-5.2183015,37.095439)"><text
+       transform="matrix(0.93504658,0,0,0.93504658,-4.9877061,37.420629)"
+       inkscape:export-filename="logo2.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.1698px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0.846145px;opacity:1;fill:none;stroke:#6e3e1e;stroke-width:0.405084;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          x="114.37854"
