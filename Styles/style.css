@@ -11,3 +11,11 @@ body {
     background-color: #E1D3CC;
     filter: drop-shadow(0px 0px 20px #8b7b72);
 }
+
+#menulogo {
+    height: 95%;
+}
+
+#menulogo img {
+    height: 100%;
+}
