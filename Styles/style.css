@@ -25,3 +25,11 @@ body {
     height: 100%;
     object-fit: contain;
 }
+
+#navigation {
+    max-width: 30%;
+    min-width: 15%;
+    align-self: center;
+    justify-self: center;
+    background-color: aqua;
+}
